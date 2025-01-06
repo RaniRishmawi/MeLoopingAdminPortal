@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MeLooping.Backend.AdminPortal",
   "resources": {
-    "hash": "sha256-wepOvqHoEtCqt6xFKaevn0nFih+ZVpEPo1NGAbOJ8AU=",
+    "hash": "sha256-kW6PO/phg6Q/VMWY37D+niNgXGZ6VWC1KZL+MNx+mpY=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.tuwi4wju8z.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "FluentValidation.wasm": "sha256-y2wmu0q0yfh4/O0BN8s/ZnPUFizpBUQu6X5SeIQJjnI=",
-      "MeLooping.Backend.AdminPortal.wasm": "sha256-zPg2lrw+sBedPHEWbhjugV7Q8CH0S9fo7DdjPbzgmHk=",
+      "MeLooping.Backend.AdminPortal.wasm": "sha256-5BV058VHspuxvJl8FH/w/xljulCJoi4LtTd9fFwGaFk=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-0U/uO8CFRI/EtY1hAjcIVcdj1GJKvPdlkoU0xZoo7/c=",
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-2xFMrHgN5gWOEuWAgW2Tv4Xjv46o/z3TKUD4IY2EvN0=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-un0mWHcNYsRjdRZz/RwoEXZ36QV3diPGsr1753foDzQ=",
