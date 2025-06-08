@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MeLooping.Backend.AdminPortal",
   "resources": {
-    "hash": "sha256-+a1DAGDxoqFwUtkS/xiJj/+PL2f4Ss83DbMShtxsS8k=",
+    "hash": "sha256-AhLQ9YS3Sr7KrofKQNbYyCuCbnb2y7WcOL41N9zhxn0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -24,7 +24,7 @@
       "KristofferStrube.Blazor.MediaCaptureStreams.wasm": "sha256-JMWE96HAfcpe5UVbWy+752g8PIHzAy9KCBFlfy0W5qo=",
       "KristofferStrube.Blazor.WebAudio.wasm": "sha256-Trv3nKxdM801vI5UerO8zElxOpNNW/bhSA762hzKp8I=",
       "KristofferStrube.Blazor.WebIDL.wasm": "sha256-4hLFLRJ5CXuhxl9k7wrHtW/r8lxVip1NwMXQ5pKHIvA=",
-      "MeLooping.Backend.AdminPortal.wasm": "sha256-MIWwopCQ3PFxpQKrQTP5uN4AU5h7dGYiF36Zqd+HMeA=",
+      "MeLooping.Backend.AdminPortal.wasm": "sha256-zLsAvcuhsZ1THq3LexdBvxx99OsOT40xcJh1QzbneLc=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-DbUgMclzaFKNxDQONe7qQ0ONND73yxDav/a3guf6fTo=",
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-yuVeG5hLs/kXzBnq99k2Je/x0QPrtgR4fXMf4HEv6Ig=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-QN9KiUX4UNysmiP9cj6fOH2xoJ/6PDQGEhL/04NRWd8=",
